@@ -39,5 +39,4 @@ rostelecom-tests/
 │   ├── test_miscellaneous.py  # Прочие тесты
 │
 ├── conftest.py                # Фикстуры PyTest
-├── requirements.txt           # Зависимости проекта
 ├── README.md                  # Описание проекта
