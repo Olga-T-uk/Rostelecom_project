@@ -39,4 +39,17 @@ rostelecom-tests/
 │   ├── test_miscellaneous.py  # Прочие тесты
 │
 ├── conftest.py                # Фикстуры PyTest
-├── README.md                  # Описание проекта
+├── README.md                  # Описание проекта    
+
+
+Запустить  файл test_authorization.py 
+
+pytest tests/test_authorization.py
+
+Запустить  файл    registration.py   
+
+pytest tests/test_registration.py    
+
+Запустите все тесты:    
+
+pytest tests/
